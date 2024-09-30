@@ -1,0 +1,27 @@
+.nav-bar {
+    position: fixed;
+    top: 0;
+    background-color: red;
+    height: fit-content;
+    width: 100%;
+}
+
+.nav-bar ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-end;
+}
+
+.nav-bar li {
+    text-decoration: none;
+    padding: 10px;
+}
+.nav-bar a {
+    color: white;
+    text-decoration: none;
+}
+.nav-bar li:hover {
+    color: aqua;
+    background-color: blueviolet;
+}
+

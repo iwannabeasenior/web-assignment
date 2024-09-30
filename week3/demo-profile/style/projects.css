@@ -1,0 +1,17 @@
+#projects {
+   height: 1000px;
+   background-color: violet; 
+   padding-top: 100px;
+}
+.project-tile {
+    height: 300px;
+    width: 300px;
+    background-color: aquamarine;
+}
+.project-tile h1 { 
+    justify-content: center;
+}
+.project-img {
+    width: 100%;
+    height: 100%;
+}

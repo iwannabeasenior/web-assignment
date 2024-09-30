@@ -1,0 +1,17 @@
+#contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.contact-icon {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+}
+.contact-list-icon {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    justify-content: center;
+}
